@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_home_select"
+        id="@+id/tab_home"
+        title="Asosiy oyna" />
+    <tab
+        icon="@drawable/ic_all_exchange_select"
+        id="@+id/tab_all"
+        title="Barcha Valyutalar" />
+    <tab
+        icon="@drawable/ic_calculator_icon_select"
+        id="@+id/tab_calculate"
+        title="Kalkulyator" />
+</tabs>
